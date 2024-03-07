@@ -1,2 +1,2 @@
 # JUnitTests
-A little experiment with creating tests in JUnit
+![Screenshot](images/screenshot.png)
